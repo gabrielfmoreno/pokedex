@@ -50,7 +50,7 @@ Links Importantes
 
 Aplicação publicada (Vercel): https://pokedex-teal-sigma.vercel.app/
 
-Projeto no CodeSandbox: https://codesandbox.io/p/sandbox/znmww8
+Projeto no CodeSandbox: https://codesandbox.io/p/sandbox/nd4sj6
 
 Repositório GitHub: https://github.com/gabrielfmoreno/pokedex.git
 
