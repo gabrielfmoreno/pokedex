@@ -48,7 +48,7 @@ http://localhost:5173
 
 Links Importantes
 
-Aplicação publicada (Vercel): https://pokedex-teal-sigma.vercel.app/
+Aplicação publicada (Vercel): https://pokedex-7fxq.vercel.app/
 
 Projeto no CodeSandbox: https://codesandbox.io/p/sandbox/nd4sj6
 
