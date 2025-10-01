@@ -24,7 +24,7 @@ Como Executar Localmente
 
 Clone o repositório:
 
-git clone https://github.com/seuusuario/pokedex.git
+git clone [https://github.com/seuusuario/pokedex.git](https://github.com/gabrielfmoreno/pokedex.git)
 
 
 Entre na pasta do projeto:
@@ -52,7 +52,7 @@ Aplicação publicada (Vercel): https://pokedex.vercel.app
 
 Projeto no CodeSandbox: [https://codesandbox.io/s/seu-projeto-publico](https://codesandbox.io/p/sandbox/znmww8)
 
-Repositório GitHub: https://github.com/seuusuario/pokedex
+Repositório GitHub: [https://github.com/seuusuario/pokedex](https://github.com/gabrielfmoreno/pokedex.git)
 
 Tecnologias Utilizadas
 
